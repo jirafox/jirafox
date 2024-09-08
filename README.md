@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Jira!</h1>
+<h3 align="center">A kid passionate for Windows development and Flutter</h3>
+
 # 💫 About Me:
 👯 I’m looking to collaborate on Flutter Open-Source Projects<br>🤝 I’m looking for help with learning more about OS kernels and Win32 API<br>🌱 I’m currently learning C and Dart<br>💬 Ask me about development for mobile with Flutter
 
